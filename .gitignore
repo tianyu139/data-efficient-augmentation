@@ -1,0 +1,10 @@
+.ipynb_checkpoints/
+data/
+results_*/
+trained_models*/
+*_outs/
+experiments/
+results/
+notebooks/
+*/__pycache__/
+__pycache__/
